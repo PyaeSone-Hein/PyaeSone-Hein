@@ -18,8 +18,9 @@
 [![](https://visitcount.itsvg.in/api?id=PyaeSone-Hein&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <p align="center">
-  <img src="https://media.tenor.com/3g3YwM5jEJwAAAAC/mini-krillin-dragon-ball.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/PyaeSone-Hein/PyaeSone-Hein/main/ballz.gif" width="400" />
 </p>
+
 
 
 ![snake gif](https://github.com/PyaeSone-Hein/PyaeSone-Hein/blob/output/github-snake-dark.svg)
