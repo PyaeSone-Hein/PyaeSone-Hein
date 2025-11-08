@@ -1,7 +1,7 @@
 # Halo, I am Pyae.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PyaeSone-Hein/PyaeSone-Hein/main/ballz.gif" width="400" />
+  <img src="https://raw.githubusercontent.com/PyaeSone-Hein/PyaeSone-Hein/main/ballz1.1.gif" width="400" />
 </p>
 
 Repository containing data analysis, self learning, and hobby purposes.
