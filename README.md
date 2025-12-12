@@ -15,6 +15,7 @@ Repository containing data analysis, self learning, and hobby purposes.
 ## Data Analysis 
 
 * **Thai Food Ingredients Analysis:** This repository ([https://github.com/Kinosaur/thai_food](https://github.com/Kinosaur/thai_food)) contains a data analysis project on Thai food ingredients, which I contributed to with a friend.
+* **Dirty Data Cleaning & Analysis:** Found at (https://github.com/Kinosaur/data-cleaning-eda-portfolio), this collaborative project focuses on cleaning unstructured data and performing detailed exploratory analysis.
 
 ---
 
