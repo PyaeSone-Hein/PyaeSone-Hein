@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/PyaeSone-Hein/PyaeSone-Hein/main/ballz1.1.gif" width="400" style="border-radius: 20px;" />
 </p>
 
-Repository containing data analysis,data visualization, self learning, and hobby purposes.
+Repository containing data analysis, data visualization, self learning, and hobby purposes.
 
 ---
 
