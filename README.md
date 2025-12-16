@@ -17,6 +17,10 @@ Repository containing data analysis, self learning, and hobby purposes.
 * **Thai Food Ingredients Analysis:** This repository ([https://github.com/Kinosaur/thai_food](https://github.com/Kinosaur/thai_food)) contains a data analysis project on Thai food ingredients, which I contributed to with a friend.
 * **Dirty Data Cleaning & Analysis:** Found at (https://github.com/Kinosaur/data-cleaning-eda-portfolio), this collaborative project focuses on cleaning unstructured data and performing detailed exploratory analysis.
 
+## Data Visualization
+
+* **Tableau Learning Lab:** A Tableau practice repository ([https://github.com/PyaeSone-Hein/tableau-learning-lab](https://github.com/PyaeSone-Hein/tableau-learning-lab)) containing dashboards for data visualization and exploratory analysis, following MIMU guidelines.
+
 ---
 
 ![snake gif](https://github.com/PyaeSone-Hein/PyaeSone-Hein/blob/output/github-snake-dark.svg)
