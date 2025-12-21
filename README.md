@@ -19,7 +19,11 @@ Repository containing data analysis, data visualization, self learning, and hobb
 
 ## Data Visualization
 
+### Tableau
 * **Tableau Learning Lab:** A Tableau practice repository ([https://github.com/PyaeSone-Hein/tableau-learning-lab](https://github.com/PyaeSone-Hein/tableau-learning-lab)) containing dashboards for data visualization and exploratory analysis, following MIMU guidelines.
+
+### Power BI
+* **Christmas Movie Picker:** A Power BI practice dashboard ([https://github.com/PyaeSone-Hein/christmas-movie-picker](https://github.com/PyaeSone-Hein/christmas-movie-picker)) created to learn basic data visualization, charts, and slicers by following a tutorial.
 
 ---
 
