@@ -12,8 +12,9 @@ Repository containing data analysis, data visualization, self learning, and hobb
 
 * **Machine Learning Lab:** This repository ([https://github.com/PyaeSone-Hein/machineLearningLab](https://github.com/PyaeSone-Hein/machineLearningLab)) contains various labs, exercises, and projects from my machine learning studies.
 
-## Data Analysis 
+## Data Analytics & NLP
 
+* **Twitter Sentiment Analytics Dashboard:** https://github.com/PyaeSone-Hein/twitter-sentiment-analytics-powerbi — End-to-end NLP and analytical dashboard project using Python and Power BI, including sentiment classification, feature engineering, and KPI modeling.
 * **Thai Food Ingredients Analysis:** This repository ([https://github.com/Kinosaur/thai_food](https://github.com/Kinosaur/thai_food)) contains a data analysis project on Thai food ingredients, which I contributed to with a friend.
 * **Dirty Data Cleaning & Analysis:** Found at (https://github.com/Kinosaur/data-cleaning-eda-portfolio), this collaborative project focuses on cleaning unstructured data and performing detailed exploratory analysis.
 
