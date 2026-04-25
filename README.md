@@ -13,9 +13,9 @@ Repository showcasing data analytics, data engineering, NLP, and system developm
 
 ## Data Analytics, Data Engineering, and NLP
 
-[Retail Big Data Analytics (PySpark + Power BI)](https://github.com/PyaeSone-Hein/retail-big-data-analytics-pyspark): End-to-end retail analytics pipeline using PySpark for data cleaning, feature engineering, and distributed analytics, with outputs visualized in Power BI dashboards.
-
 [Twitter Sentiment Analysis](https://github.com/PyaeSone-Hein/twitter-sentiment-analysis-nlp): Text analytics project that processes user-generated content and classifies sentiment into positive, negative, and neutral categories using preprocessing and visualization techniques.
+
+[Retail Big Data Analytics (PySpark + Power BI)](https://github.com/PyaeSone-Hein/retail-big-data-analytics-pyspark): End-to-end retail analytics pipeline using PySpark for data cleaning, feature engineering, and distributed analytics, with outputs visualized in Power BI dashboards.
 
 [Thai Food Ingredients Analysis](https://github.com/Kinosaur/thai_food): Collaborative data analysis project exploring ingredient patterns and relationships in Thai cuisine through data cleaning and visualization.
 
