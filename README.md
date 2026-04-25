@@ -4,30 +4,44 @@
   <img src="https://raw.githubusercontent.com/PyaeSone-Hein/PyaeSone-Hein/main/ballz1.1.gif" width="400" style="border-radius: 20px;" />
 </p>
 
-Repository containing data analysis, data visualization, self learning, and hobby purposes.
+Repository showcasing data analytics, data engineering, NLP, and system development projects completed through academic work, self-learning, and practical exploration.
+
+---
+
+## Data Analytics, Data Engineering, and NLP
+
+[Retail Big Data Analytics (PySpark + Power BI)](https://github.com/PyaeSone-Hein/retail-big-data-analytics-pyspark): End-to-end retail analytics pipeline using PySpark for data cleaning, feature engineering, and distributed analytics, with outputs visualized in Power BI dashboards.
+
+[Twitter Sentiment Analysis](https://github.com/PyaeSone-Hein/twitter-sentiment-analysis-nlp): Text analytics project that processes user-generated content and classifies sentiment into positive, negative, and neutral categories using preprocessing and visualization techniques.
+
+[Thai Food Ingredients Analysis](https://github.com/Kinosaur/thai_food): Collaborative data analysis project exploring ingredient patterns and relationships in Thai cuisine through data cleaning and visualization.
+
+[Dirty Data Cleaning and Analysis](https://github.com/Kinosaur/data-cleaning-eda-portfolio): Project focused on handling unstructured datasets by applying data cleaning techniques and exploratory analysis to extract meaningful insights.
 
 ---
 
 ## Machine Learning
 
-* **Machine Learning Lab:** This repository ([https://github.com/PyaeSone-Hein/machineLearningLab](https://github.com/PyaeSone-Hein/machineLearningLab)) contains various labs, exercises, and projects from my machine learning studies.
+[Machine Learning Lab](https://github.com/PyaeSone-Hein/machineLearningLab): Collection of machine learning exercises and experiments covering classification, clustering, and regression with a focus on practical understanding.
 
-## Data Analytics & NLP
+---
 
-* **Twitter Sentiment Analytics Dashboard:** https://github.com/PyaeSone-Hein/twitter-sentiment-analytics-powerbi — End-to-end NLP and analytical dashboard project using Python and Power BI, including sentiment classification, feature engineering, and KPI modeling.
-* **Thai Food Ingredients Analysis:** This repository ([https://github.com/Kinosaur/thai_food](https://github.com/Kinosaur/thai_food)) contains a data analysis project on Thai food ingredients, which I contributed to with a friend.
-* **Dirty Data Cleaning & Analysis:** Found at (https://github.com/Kinosaur/data-cleaning-eda-portfolio), this collaborative project focuses on cleaning unstructured data and performing detailed exploratory analysis.
-
-## Data Visualization
+## Data Analysis and Visualization
 
 ### Tableau
-* **Tableau Learning Lab:** A Tableau practice repository ([https://github.com/PyaeSone-Hein/tableau-learning-lab](https://github.com/PyaeSone-Hein/tableau-learning-lab)) containing dashboards for data visualization and exploratory analysis, following MIMU guidelines.
+
+[Tableau Learning Lab](https://github.com/PyaeSone-Hein/tableau-learning-lab): Practice dashboards built to develop data visualization and storytelling skills.
 
 ### Power BI
-* **Christmas Movie Picker:** A Power BI practice dashboard ([https://github.com/PyaeSone-Hein/christmas-movie-picker](https://github.com/PyaeSone-Hein/christmas-movie-picker)) created to learn basic data visualization, charts, and slicers by following a tutorial.
+
+[Christmas Movie Picker](https://github.com/PyaeSone-Hein/christmas-movie-picker): Interactive dashboard project exploring charts, filters, and reporting features.
+
+---
+
+## System Development and Backend Projects
+
+Backend and system-focused projects: Ongoing work involving data pipelines, API services, and real-time processing systems, to be published once stable and complete.
 
 ---
 
 ![snake gif](https://github.com/PyaeSone-Hein/PyaeSone-Hein/blob/output/github-snake-dark.svg)
-
-
