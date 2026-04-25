@@ -1,7 +1,11 @@
 # Halo, I am Pyae.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PyaeSone-Hein/PyaeSone-Hein/main/ballz1.1.gif" width="400" style="border-radius: 20px;" />
+  <img 
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDUxYnlnMHlucDZwYzEyMGNiamtkdWo1cmszcnJpczJrcnFlNzYxaCZlcD12MV9pbnRlcmFsfGdpZl9ieV9pZCZjdD1n/i229PTC8BKt9V9RnwZ/giphy.gif" 
+    width="150"
+    style="border-radius: 50%;"
+  />
 </p>
 
 Repository showcasing data analytics, data engineering, NLP, and system development projects completed through academic work, self-learning, and practical exploration.
