@@ -1,11 +1,11 @@
 # Halo, I am Pyae.
 
 <p align="center">
-  <img 
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDUxYnlnMHlucDZwYzEyMGNiamtkdWo1cmszcnJpczJrcnFlNzYxaCZlcD12MV9pbnRlcmFsfGdpZl9ieV9pZCZjdD1n/i229PTC8BKt9V9RnwZ/giphy.gif" 
-    width="150"
-    style="border-radius: 50%;"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDUxYnlnMHlucDZwYzEyMGNiamtkdWo1cmszcnJpczJrcnFlNzYxaCZlcD12MV9pbnRlcmFsfGdpZl9ieV9pZCZjdD1n/i229PTC8BKt9V9RnwZ/giphy.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDUxYnlnMHlucDZwYzEyMGNiamtkdWo1cmszcnJpczcnFlNzYxaCZlcD12MV9pbnRlcmFsfGdpZl9ieV9pZCZjdD1n/i229PTC8BKt9V9RnwZ/giphy.gif">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDUxYnlnMHlucDZwYzEyMGNiamtkdWo1cmszcnJpczcnFlNzYxaCZlcD12MV9pbnRlcmFsfGdpZl9ieV9pZCZjdD1n/i229PTC8BKt9V9RnwZ/giphy.gif" width="220">
+  </picture>
 </p>
 
 Repository showcasing data analytics, data engineering, NLP, and system development projects completed through academic work, self-learning, and practical exploration.
